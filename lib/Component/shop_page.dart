@@ -1,9 +1,9 @@
-import 'package:ecommerce_app/Component/ShoeTile.dart';
-import 'package:ecommerce_app/Component/shoe.dart';
+import 'package:TWSkart/Component/ShoeTile.dart';
+import 'package:TWSkart/Component/shoe.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:ecommerce_app/Component/cart.dart';
-import 'package:ecommerce_app/Component/shoe.dart';
+import 'package:TWSkart/Component/cart.dart';
+import 'package:TWSkart/Component/shoe.dart';
 
 class ShopPage extends StatefulWidget {
   const ShopPage({super.key});

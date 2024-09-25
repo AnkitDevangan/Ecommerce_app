@@ -1,8 +1,8 @@
-import 'package:ecommerce_app/Component/cart.dart';
-import 'package:ecommerce_app/LoginPage.dart';
+import 'package:TWSkart/Component/cart.dart';
+import 'package:TWSkart/LoginPage.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:ecommerce_app/Component/cart.dart';
+import 'package:TWSkart/Component/cart.dart';
 
 
 void main(){
